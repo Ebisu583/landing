@@ -1,0 +1,31 @@
+.btn-primary {
+  display: inline-block;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  border: 2px solid white;
+}
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}
+
+.btn-three {
+  display: flex;
+  background-color: rgb(245, 13, 13);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+.btn-three:hover {
+  background-color: rgb(21, 14, 14);
+  transition: 1s;
+}
